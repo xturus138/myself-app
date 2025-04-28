@@ -3,4 +3,11 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="whiteApp">#fbfbfb</color>
+    <color name="greenLight">#5E9D93</color>
+    <color name="grayLight">#9F9F9F</color>
+    <color name="gray">#6C7278</color>
+    <color name="blue">#348ed6</color>
+    <color name="blueDark">#4D81E7</color>
+    <color name="blueDarkTwo">#1D61E7</color>
+    <color name="blueLight">#6cc4ec</color>
 </resources>

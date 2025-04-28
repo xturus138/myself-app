@@ -6,6 +6,7 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import com.example.myself.R
+import com.tbuonomo.viewpagerdotsindicator.DotsIndicator
 
 
 class PageOneFragment : Fragment() {
@@ -18,6 +19,8 @@ class PageOneFragment : Fragment() {
         inflater: LayoutInflater, container: ViewGroup?,
         savedInstanceState: Bundle?
     ): View? {
-        return inflater.inflate(R.layout.fragment_page_one, container, false)
+        val view = inflater.inflate(R.layout.fragment_page_one, container, false)
+        return view
     }
+
 }
